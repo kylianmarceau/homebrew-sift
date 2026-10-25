@@ -1,6 +1,6 @@
 cask "sift" do
-  version "0.2.1"
-  sha256 "64294549ad0afd923531f4ee71628789deceedf40a5525e13432b21dd2242908"
+  version "0.2.2"
+  sha256 "7826ca2b046eb2e7144c2d782be3c7852e23aca0ffd177523dada26caff39c10"
 
   url "https://github.com/kylianmarceau/sift/releases/download/v#{version}/Sift-#{version}-arm64.zip"
   name "Sift"
